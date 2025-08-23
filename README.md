@@ -1,10 +1,10 @@
 ## 경력
 
 ### 프론트엔드 개발자 | 컨텍 | 2023.03 ~ 현재
-- GIS 기반 **위성 영상·지반 데이터 시각화 플랫폼** 핵심 기능 개발
+- GIS 기반 **위성 영상·지반 데이터 시각화 플랫폼** 기능 개발
 - Vue 3, TypeScript, OpenLayers, CesiumJS를 활용한 지도/3D 시각화 구현
 - 공통 UI 컴포넌트 라이브러리 구축 및 SCSS 기반 다크·라이트 테마 시스템 설계
-- ESLint, Stylelint, pnpm workspace 도입 및 CI/CD 최적화로 설치 속도 40% 이상 개선
+- ESLint, Stylelint, pnpm workspace 도입 및 라이브러리 CI/CD 추가
 
 ### 프론트엔드 개발자 | 투네이션 | 2020.10 ~ 2022.08
 - Twitch·YouTube 크리에이터용 **실시간 후원 및 위젯 플랫폼** 신규 기능 개발 및 리뉴얼
